@@ -8,9 +8,14 @@ for his orignal mod which i took tweaks from
 
 and
 
-[fawazahmed0](https://github.com/fawazahmed0/windows-unsigned-driver-installer)
+[Mattiwatti](https://github.com/Mattiwatti/EfiGuard)
 
-for unsigned driver installer
+for efiguard
+download it!
 
-just run the unsigned driver installer 
+follow instructions above carefully then run setup.bat after installing it might show not installed but it will be if you used efiguard correctly.
+
+
 works with secure boot windows 11 latest build 
+
+you may have to tweak the secure boot settings and change its mode to custom.
