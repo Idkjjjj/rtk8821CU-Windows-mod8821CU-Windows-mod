@@ -25,3 +25,11 @@ rigt click on it and select update driver and click on browse my computers for d
 
 now install it, it is named %RTL8821.DeviceDesc%.
 if it shows a pop up just click on install unsigned driver.
+
+
+orignal driver performance:
+![Screenshot 2024-09-28 192608](https://github.com/user-attachments/assets/a6f3bce8-6236-417e-86a8-a0d2fcfa32f3)
+
+modded new driver:
+![Screenshot 2024-09-28 192814](https://github.com/user-attachments/assets/cd042278-419c-476b-9b76-5a2664ed5451)
+
