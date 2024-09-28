@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eb6c2538-0e4b-4905-b6db-5f527e0c56e1)# rtk8821CU-Windows-mod8821CU-Windows-mod
+# rtk8821CU-Windows-mod8821CU-Windows-mod
 Realtek 8821CU Windows mod
 FIRSTLY CREDITS To these wonderful people!
 
